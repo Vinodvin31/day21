@@ -1,4 +1,4 @@
-#AWS ECS Deep Dive
+AWS ECS Deep Dive
 
 Pros of Using AWS ECS
 Fully Managed Service: AWS handles the underlying infrastructure, making it easier for you to focus on deploying and managing applications.
